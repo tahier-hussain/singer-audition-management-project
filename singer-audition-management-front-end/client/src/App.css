@@ -1,0 +1,43 @@
+.App {
+  background-color: black;
+  color: white;
+}
+
+.map-font-color {
+  color: black !important;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+/* .container-color {
+  background-color: rgb(12, 12, 12);
+  border-color: rgb(5, 5, 20);
+} */
+
+.input-bg {
+  background-color: rgb(29, 29, 29);
+  color: white;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
